@@ -17,4 +17,3 @@ killall Dock
 echo "Spacer added successfully!"
 echo "Run this script again to add additional spacers."
 echo "To remove a spacer, simply drag it out of the Dock."
-
