@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# add_dock_spacer.sh
 # This script adds an invisible spacer to the macOS Dock
 # It creates a persistent app tile that acts as a spacer and then restarts the Dock
 
